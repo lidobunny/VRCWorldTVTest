@@ -1,3 +1,16 @@
+# metadata.txt
+# One line per image, in order. Line 1 = 1.jpg, line 2 = 2.jpg, etc.
+# Lines starting with # are ignored.
+#
+# Formats:
+#   static
+#   animated|cols|rows|fps
+#
+# To add a new image:
+#   1. Upload N.jpg to GitHub
+#   2. Add a new line here (static or animated)
+#   3. Commit — no world re-upload needed!
+
 static
 static
 static
@@ -13,4 +26,4 @@ static
 static
 static
 static
-animated
+animated|5|19|30
