@@ -62,5 +62,5 @@ animated|5|2|6.25|9
 animated|5|20|14.29|96
 animated|5|18|14.29|87
 animated|5|20|14.29|97
-animated|5|20|14.29|97
+animated|5|10|14.29|47
 animated|5|10|14.29|47
