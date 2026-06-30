@@ -1,1 +1,1 @@
-animated|5|15|8.33|72
+static
