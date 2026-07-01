@@ -7,7 +7,7 @@ scanline_count|300
 scanline_speed|0.3
 pixel_cols|240
 pixel_rows|180
-pixel_gap|0.15
-pixel_gap_strength|0.4
+pixel_gap|0.75
+pixel_gap_strength|0.75
 chroma_strength|0.005
-cycle_interval|8
+cycle_interval|6
