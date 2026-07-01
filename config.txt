@@ -3,7 +3,7 @@
 
 brightness|1.2
 scanline_strength|0.25
-scanline_count|300
+scanline_count|12
 scanline_speed|0.3
 pixel_cols|240
 pixel_rows|180
