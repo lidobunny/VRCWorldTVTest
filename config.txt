@@ -2,7 +2,7 @@
 # Edit and push anytime; refreshes automatically in-world.
 
 brightness|1.4
-scanline_strength|.5
+scanline_strength|.1
 scanline_count|12
 scanline_speed|0.3
 pixel_cols|240
