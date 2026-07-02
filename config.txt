@@ -1,5 +1,5 @@
 # config.txt — global CRT settings, applies to all images
-# Edit and push anytime; refreshes automatically in-world.
+# Edit via Discord !config or by hand; refreshes in-world automatically.
 
 brightness|1.4
 scanline_strength|.1
@@ -10,4 +10,4 @@ pixel_rows|180
 pixel_gap|0.75
 pixel_gap_strength|0.75
 chroma_strength|0.005
-cycle_interval|6
+cycle_interval|15
