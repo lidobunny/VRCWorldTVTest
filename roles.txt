@@ -1,2 +1,2 @@
 # vrchat_display_name|role1,role2  (generated — do not hand-edit)
-LidoBnuy|Verified
+LidoBnuy|VIP,Verified
