@@ -1,1 +1,1 @@
-<align=center><color=#68c85e>Sriracha</color> is a <b><i><u>Goober</u></i></b></align>
+this is a test of the motd system
