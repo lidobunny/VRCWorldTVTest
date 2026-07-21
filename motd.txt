@@ -1,1 +1,1 @@
-this is a test of the motd system
+<color=#f16434>don't</color> the <color=#5bca77><b>bird</b></color>
