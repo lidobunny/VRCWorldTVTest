@@ -1,5 +1,5 @@
 # vrchat_display_name|role1,role2  (generated — do not hand-edit)
-LidoBnuy|VIP,Verified
+LidoBnuy|Staff,VIP,Verified
 Born ¹|VIP,Verified
 kruze_|VIP,Verified
 KK_Purple|Verified
