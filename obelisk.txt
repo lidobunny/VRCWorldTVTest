@@ -1,4 +1,4 @@
-# carved names — append-only, oldest first
+# carved names - append-only, oldest first
 LidoBnuy
 Born ¹
 kruze_
