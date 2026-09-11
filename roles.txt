@@ -1,7 +1,7 @@
-# vrchat_display_name|role1,role2  (generated — do not hand-edit)
-LidoBnuy|Staff,VIP,Verified
-Born ¹|VIP,Verified
-kruze_|VIP,Verified
+# vrchat_display_name|role1,role2  (generated - do not hand-edit)
+LidoBnuy|Staff,Verified,VIP
+Born ¹|Verified,VIP
+kruze_|Verified,VIP
 KK_Purple|Verified
 ~Rowan~|Verified
 Aliweck|Verified
